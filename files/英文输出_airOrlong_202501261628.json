@@ -1,0 +1,161 @@
+
+{
+  "theme": "地热能的应用与优势",
+  "points": [
+    {
+      "name": "传统供暖系统的缺陷与危险",
+      "importance": 4,
+      "subtitles": [
+        {
+          "subtitle": "复杂性",
+          "md": "传统供暖系统涉及燃料开采、运输、精炼等多个环节。",
+          "raw_recognition": [
+            {
+              "start": "00:00",
+              "end": "04:24"
+            }
+          ]
+        },
+        {
+          "subtitle": "危险性",
+          "md": "包括管道事故导致的爆炸和一氧化碳中毒风险。",
+          "raw_recognition": [
+            {
+              "start": "04:24",
+              "end": "14:12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "地热能概述",
+      "importance": 5,
+      "subtitles": [
+        {
+          "subtitle": "定义",
+          "md": "地球内部的热能。",
+          "raw_recognition": [
+            {
+              "start": "14:12",
+              "end": "18:56"
+            }
+          ]
+        },
+        {
+          "subtitle": "特点",
+          "md": "可再生、环保。",
+          "raw_recognition": [
+            {
+              "start": "18:56",
+              "end": "19:60"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "地热供暖系统的工作原理",
+      "importance": 5,
+      "subtitles": [
+        {
+          "subtitle": "构成",
+          "md": "包括地下环路和热泵。",
+          "raw_recognition": [
+            {
+              "start": "19:60",
+              "end": "22:32"
+            }
+          ]
+        },
+        {
+          "subtitle": "工作过程",
+          "md": "通过地下环路吸收地热，利用热泵进行热量转换。",
+          "raw_recognition": [
+            {
+              "start": "22:32",
+              "end": "24:16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "地热供暖系统的优势",
+      "importance": 5,
+      "subtitles": [
+        {
+          "subtitle": "经济性",
+          "md": "长期来看，成本低于传统供暖系统。",
+          "raw_recognition": [
+            {
+              "start": "24:16",
+              "end": "25:44"
+            }
+          ]
+        },
+        {
+          "subtitle": "安全性",
+          "md": "减少了因化石燃料燃烧导致的风险。",
+          "raw_recognition": [
+            {
+              "start": "25:44",
+              "end": "26:32"
+            }
+          ]
+        },
+        {
+          "subtitle": "环保性",
+          "md": "减少了对化石燃料的依赖，降低了碳排放。",
+          "raw_recognition": [
+            {
+              "start": "26:32",
+              "end": "28:08"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "地热能的未来展望",
+      "importance": 4,
+      "subtitles": [
+        {
+          "subtitle": "普及潜力",
+          "md": "适用于各种建筑和环境。",
+          "raw_recognition": [
+            {
+              "start": "28:08",
+              "end": "29:04"
+            }
+          ]
+        },
+        {
+          "subtitle": "环境影响",
+          "md": "减少对自然资源的破坏，保护生态环境。",
+          "raw_recognition": [
+            {
+              "start": "29:04",
+              "end": "结束"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "name": "地热能 - 维基百科",
+      "href": "https://zh.wikipedia.org/wiki/%E5%9C%B0%E7%83%AD%E8%83%BD"
+    },
+    {
+      "name": "可再生能源 - 国家能源局",
+      "href": "http://www.nea.gov.cn/"
+    },
+    {
+      "name": "环保节能 - 联合国环境规划署",
+      "href": "https://www.unep.org/"
+    }
+  ],
+  "summary": "本节课主要探讨了地热能作为一种可持续能源的应用及其相对于传统化石燃料的优势。课程从传统供暖系统的复杂性和危险性入手，引出了地热能作为一种更为安全、环保的替代方案。详细介绍了地热能的工作原理、系统构成以及其在实际应用中的优势。"
+}
