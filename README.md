@@ -1,5 +1,5 @@
 
-请在**AImodel目录下**运行：
+请在**autonotes_AImodel目录下**运行：
 
 ```shell
 uv sync
